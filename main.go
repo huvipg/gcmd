@@ -1,6 +1,6 @@
 package main
 
-import "./cmd"
+import "gcmd/cmd"
 
 func main() {
 	cmd.Execute()
