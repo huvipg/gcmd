@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"../tools"
+	"github.com/huvipg/gcmd/tools"
 	"github.com/spf13/cobra"
 )
 

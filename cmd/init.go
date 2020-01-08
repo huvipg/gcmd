@@ -7,7 +7,7 @@ import (
 
 	"os"
 
-	"../tools"
+	"github.com/huvipg/gcmd/tools"
 )
 
 // cCmd表示c命令
